@@ -1,0 +1,12 @@
+Riya is a social worker, she prepares meals for the covid-infected people. An app which notifies her when and where a person needs a meal would be
+really helpful. The first screen would be a login or register page, when you are registered the screen will request you to enable your location so 
+that Riya knows the location of where the food needs to be delivered. After that, the third screen, will have a menu with checkboxes on the side of the food
+item so you can select what you want to eat and then press on a button on the bottom of the screen that says 'place order'. After that the person gets the
+notification 'Your order has been placed, Get well soon :)' and then they have 3 icons on the bottom of each screen, one for the home page, one for the
+location page and one for the orders placed page. Once the person places the order, Riya will get a notification to what the person has ordered and where
+the food is to be delivered. Riya can also have a 'TO DO' page where all the pending orders get automatically listed and she can check them off once they
+are delivered.When the order has reached the destination, Riya will get a notification saying 'Order delivered'.
+
+
+
+
